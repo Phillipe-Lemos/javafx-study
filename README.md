@@ -17,7 +17,7 @@ The SDK used could be downloaded from here : https://gluonhq.com/products/javafx
 
 ## How to run the examples
 
-**java --module-path $JAVAFX_PATH$ --add-modules javafx.controls,javafx.graphics <program name> <program parameters>**
+java --module-path $JAVAFX_PATH$ --add-modules javafx.controls,javafx.graphics <program name> <program parameters>
 
 Here JAVAFX_PATH is an environment variable that poinst to the downloaded JavaFX SDK.
 
